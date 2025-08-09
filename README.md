@@ -3,7 +3,7 @@
 
 Passionate about modern web technologies, also building competence in the mobile app space.
 Always learning new tools and creating scalable, secure full‑stack solutions.
-I'm always learning and trying out new tecnologies, creating scalable and secure frontend infrastructure. 
+I'm always learning and trying out new technologies, creating scalable and secure frontend infrastructure. 
 
 ---
 
