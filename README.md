@@ -39,6 +39,6 @@
 
 
 ### 💡 Interests
-- Building scalable full‑stack web apps  
-- Cloud Infrastructure 
+* Building scalable full‑stack web apps  
+* Cloud Infrastructure 
  
