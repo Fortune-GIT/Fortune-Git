@@ -1,10 +1,7 @@
 <h1 align="left">Hi! I am Fortune Anosike</h1>
-<p><b>Software Developer | Web & Mobile app</b></p>
+<p><b>Software Developer | Web & Mobile Applications</b></p>
 
-Passionate about modern web technologies, also building competence in the mobile app space.
-Always learning new tools and creating scalable, secure full‑stack solutions.
-I'm always learning and trying out new technologies, creating scalable and secure frontend infrastructure. 
-
+Driven by a passion for modern web technologies and expanding expertise in mobile application development. Committed to continuous learning and exploring emerging tools, while building scalable, secure, and high-performance full-stack solutions. Experienced in designing robust frontend architectures and delivering impactful user experiences across platforms.
 ---
 
 ### 🌐 Lets Talk
