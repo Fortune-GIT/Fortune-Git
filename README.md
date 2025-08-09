@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I am Fortune Ugochukwu Anosike</h1>
+<h1 align="left">Hi! I am Fortune Anosike</h1>
 <p><b>Software Developer | Web & Mobile app</b></p>
 
 Passionate about modern web technologies, also building competence in the mobile app space.
