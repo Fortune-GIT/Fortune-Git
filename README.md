@@ -1,5 +1,5 @@
 <h1 align="left">Hi! I am Fortune Ugochukwu Anosike</h1>
-<p><b>Software Developer | Web & Mobileapp</b></p>
+<p><b>Software Developer | Web & Mobile app</b></p>
 
 Passionate about modern web technologies, also building competence in the mobile app space.
 Always learning new tools and creating scalable, secure full‑stack solutions.
@@ -23,9 +23,11 @@ I'm always learning and trying out new technologies, creating scalable and secur
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
+
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
